@@ -1,0 +1,32 @@
+body {
+  background-color: #141414;
+  margin: 0px;
+}
+
+#row {
+  width: auto;
+  height: 250px;
+  margin-top: 15px;
+  color: #fff;
+}
+
+#item {
+  width:300px;
+  height: 250px;
+  margin-left: 15px;
+}
+
+#title, a:link, a:visited {
+  text-align: center;
+  text-decoration: none!important;
+  color: #fff;
+  font-family: "Segoe UI Regular","Segoe UI";
+}
+
+#details, a:link, a:visited {
+  margin-top: -15px;
+  text-align: center;
+  text-decoration: none!important;
+  color: #fff;
+  font-family: "Segoe UI Light","Segoe UI";
+}
